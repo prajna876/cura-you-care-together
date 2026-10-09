@@ -52,7 +52,8 @@ Finding the right doctor or nearby hospital can be difficult, especially when so
 Our goal is to build a user-friendly healthcare experience that helps people explore nearby medical facilities, access doctor-related services, and organize their healthcare needs.
 
 
-Live Demohttps:https://emergency-care-portal.lovable.app/
+Live Demohttps
+https://emergency-care-portal.lovable.app/
 
 Try the deployed application:
 
