@@ -103,9 +103,7 @@ Google Maps	Opening nearby hospital search and map results
 Update this list if the deployed Lovable project uses additional or different technologies.
 
 
-Screenshots
 
-https://emergency-care-portal.lovable.app/
 
 
 
