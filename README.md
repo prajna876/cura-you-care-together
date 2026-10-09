@@ -174,7 +174,7 @@ cura-healthcare-portal/
 ├── index.html
 ├── package.json
 ├── vite.config.js
-└── README.md
+
 
 Your actual folder structure may differ depending on the Lovable project setup.
 
