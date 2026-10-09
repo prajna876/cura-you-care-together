@@ -111,18 +111,6 @@ https://emergency-care-portal.lovable.app/
 
 
 
-Home dashboard — screenshots/home.png
-
-Emergency care — screenshots/emergency-care.png
-
-Appointment interface — screenshots/appointments.png
-
-
-Once you add these image files to a screenshots folder in the repository, uncomment the corresponding image lines below:
-
-
-
-
 Getting Started
 
 Prerequisites
@@ -270,4 +258,4 @@ Cura — Your Care, Together
 Building a more accessible and connected healthcare experience.
 
 
-Visit the Live Demohttps://emergency-care-portal.lovable.app/
+Visit the Live Demohttps:https://emergency-care-portal.lovable.app/
