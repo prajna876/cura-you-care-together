@@ -7,6 +7,7 @@ A healthcare portal designed to make healthcare information and everyday care ea
 
 
 Open the Live Demo
+https://emergency-care-portal.lovable.app/
 
 
 React
@@ -23,7 +24,8 @@ Table of Contents
 
 About Cura
 
-Live Demo
+Live Demo 
+https://emergency-care-portal.lovable.app/
 
 Features
 
