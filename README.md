@@ -259,4 +259,5 @@ Cura — Your Care, Together
 Building a more accessible and connected healthcare experience.
 
 
-Visit the Live Demohttps:https://emergency-care-portal.lovable.app/
+Visit the Live Demohttps:
+https://emergency-care-portal.lovable.app/
